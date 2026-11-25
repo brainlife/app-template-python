@@ -36,3 +36,7 @@ brainlife.io is publicly funded. For the sustainability of the project, we kindl
 
 
 #### MIT Copyright (c) 2021 brainlife.io The University of Texas at Austin and Indiana University
+
+## Writing your App's README
+
+Start your README from the brainlife App README template, [`abcd-spec/templates/README.md`](https://github.com/brainlife/abcd-spec/blob/master/templates/README.md) (the layout of the [FreeSurfer App](https://github.com/brainlife/app-freesurfer)). Its "At a glance" section is generated from your App manifest with `python tools/readme.py brainlife.app.json README.md` from abcd-spec.
