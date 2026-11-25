@@ -14,10 +14,10 @@ Write the following here...
 3) Briefly description of input / output files.
 
 ### Authors
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Franco Pestilli]([@francopestilli](https://github.com/francopestilli))
 
 ### Contributors
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Franco Pestilli]([@francopestilli](https://github.com/francopestilli))
 
 #### Copyright (c) 2020 brainlife.io The University of Texas at Austin and Indiana University
 
